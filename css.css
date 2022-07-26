@@ -4,7 +4,7 @@ body{
 }
 
 h1{
-    font-size: 2em;
+    font-size: 7em;
 }
 
 h5{
@@ -22,20 +22,21 @@ h5{
 
 #clock{
     text-align: center;
+    font-size: 12em;
 }
 
 .b-div{
     text-align:center;
-    padding-bottom: 40px;
+    padding-bottom: 80px;
 }
 
 button{
     background-color:rgb(255, 255, 255);
-    font-size: 40px;
+    font-size: 7em;
 }
 
 
 footer{
-    font-size: 0.5em;
+    font-size: 1em;
     text-align: center;
 }
