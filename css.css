@@ -1,0 +1,41 @@
+body{
+    background-color:black;
+    color:white;
+}
+
+h1{
+    font-size: 2em;
+}
+
+h5{
+    text-align: right;
+}
+
+.title{
+    text-align:center;
+    align-items: flex-end;
+}
+
+.ver{
+    font-size: 0.5em;
+}
+
+#clock{
+    text-align: center;
+}
+
+.b-div{
+    text-align:center;
+    padding-bottom: 40px;
+}
+
+button{
+    background-color:rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+
+footer{
+    font-size: 0.5em;
+    text-align: center;
+}
